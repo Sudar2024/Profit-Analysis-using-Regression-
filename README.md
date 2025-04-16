@@ -1,6 +1,6 @@
 # Profit-Analysis-using-Regression-
 
-*** Project overview: ***
+***Project overview:***
 
 This project is centered around understanding the key drivers of profitability within a business using dataset which holds data from startups in Newyork,California and Florida. The objective is to identify which factors — such as Marketing Spend, R&D Spend, and Administration Costs — have the most significant impact on profit.
 
