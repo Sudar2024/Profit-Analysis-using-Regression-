@@ -12,7 +12,11 @@ This project not only demonstrates my ability to derive insights from data but a
 
 ***Microsoft Excel***
 - Conducted regression analysis to examine the impact of R&D, marketing, and administration expenses on profit.
+  
 ***Power BI Desktop***
 - Created interactive visual dashboards to present the profit trends, expense breakdowns, and high/low profitability zones.
+  
 ***SQL***
 - Basic data exploration , data extrction and table formatting.
+
+  
